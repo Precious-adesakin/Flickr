@@ -1,0 +1,249 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.crop{
+    /* background-image: url(image1/033120190455-by-Henry.2edde7a9.jpg); */
+    background-image: url(DASH\ IMAGE/033120190455-by-Henry.2edde7a9.jpg);
+}
+
+.marvel{
+    /* background-color: black; */
+    opacity: 0.1;
+    height: 63px;
+    width: 100%;
+    opacity: unset;
+    border: 1px solid black;
+}
+
+.flick-logo{
+    width: 100px;
+    margin-top: -9px;
+    margin-left: 30px;
+}
+
+.search{
+    margin-right: 0px;
+}
+
+.group{
+    width: 720px;
+    margin-left: 116px;
+    margin-top: 14px;
+    height: 31px;
+    outline: none;
+    border: 0px;
+    border-radius: 3px;
+}
+
+.log{
+    width: 60px;
+    margin-left: 85px;
+    background-color: #d1e0e5;
+    border:none;
+    color: white !important;
+    font-size: 17px;
+}
+
+.sign{
+    text-align: center;   
+    border: 0px;
+    border-radius: 5px ;  
+    width: 95px;
+    margin-left: 23px;
+    /* background-color: black; */
+    /* border: 0px; */
+    color: black !important;
+    font-size: 15px;
+    height: 35px;
+}
+
+.jog{
+    height: 585px;
+    width: 100%;
+    margin-top: 12px;
+}
+
+.Find{
+    margin-top: 86px;
+    font-size: 50px;
+    margin-left: 370px;
+}
+/* 
+.item{
+    background-image: url(image1/033120190455-by-Henry.2edde7a9.jpg);
+    height: 590px;
+    margin-top: -225px;
+} */
+
+.cont{
+    margin-left: 250px;
+    margin-top: 25px;
+    font-size: 33px;
+}
+
+.photo{
+    margin-left: 460px;
+    margin-top: 2px;
+    font-size: 25px;
+}
+
+.free{
+    width: 175px;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 100px;
+    margin-left: 530px;
+    background-color: white;
+    border: 0px;
+    color: black;
+    font-size: 17px;
+    height:64px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 55px;
+}
+
+.Secluded{
+    margin-left: 588px;
+    margin-top: 45px;
+    font-size: 18px;
+}
+
+.Pete{
+    margin-left: 548px;
+    font-size: 18px;
+}
+
+.second{
+    background-color:#000000;
+    height: 53px;
+    margin-top: 64px;
+    /* text-align: center; */
+}
+
+.footer-1{
+    text-decoration: none;
+    color: white;
+    margin-left: 25px;
+    /* margin-top: -90px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 475px) {
+    body{
+        overflow: hidden;
+    }
+    
+    body img{
+        height: 12px;
+        width: 10px;
+    }
+    .praise{
+        width: 150px;
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+
+    .marvel{
+        /* background-color: black; */
+        opacity: ;
+        height: 50px;
+        width: 308px;
+        opacity: unset;
+        border: 1px solid black;
+        align-items: center;
+    }
+
+    .group{
+        display: none;
+    }
+    .Sign{
+        display: none;
+    }
+    
+    .Log{
+        width: 55px;
+        height: 30px;
+        /* padding: 10px; */
+        margin-right: -100px;
+        background-color: #d2e1e6;
+        border: 2px solid white;
+        text-align: center;
+        color: white !important;
+        font-size: 11px;
+        margin-top: 12px !important;
+    }
+
+    .search{
+        width: 20px;
+        height: 20px;
+        /* color: white; */
+        margin-left: 120px;
+        margin-top: 10px;
+    }
+    .Find{
+        margin-top: 150px;
+        font-size: 35px;
+        margin-left: 60px;
+    }
+    .Find h1{
+        color: white;
+    }
+    .cont{
+        display: none;
+    }
+    .photo{
+        display: none;
+    }
+    .bmode{
+        display: none; 
+    }
+    .grow{
+        display: none;
+    }
+
+    .free{
+        margin-left: 100px;
+        width: 100px;
+        background-color: white;
+        border: 0px;
+        color: 2px solid blue!important;
+        font-size: 13px;
+        height: 40px;
+        text-align: center;
+        border-radius: 5px;
+        margin-top: 30px;
+    }
+
+    .second{
+        width: 207px;
+    }
+
+
+
+
+    
+}
